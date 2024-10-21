@@ -1,4 +1,4 @@
-ClASES
+CLASES
   Producto:
     Es la clase base para todos los productos.
     Atributos: codigo, nombre, precio, categoria, stock, atributo_adicional.
